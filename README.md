@@ -1,1 +1,0 @@
-# script-player-on-server
